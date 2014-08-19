@@ -8,7 +8,7 @@ int result(int array[],int con){
 
 		s = i % (con-1);
 
-
+//ひゃっは
 
 		if(array[s]>array[s+1]){
 
